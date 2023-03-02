@@ -74,7 +74,6 @@ public class Main {
         user.load(name);
         return user;
     }
-
     /**
      * 注册账户
      */
